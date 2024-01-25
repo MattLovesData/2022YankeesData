@@ -19,3 +19,5 @@ Construct and execute SQL queries to extract specific insights.
 Present actionable recommendations based on the data-driven insights.
 Why This Project Matters:
 Baseball is not just a sport; it's a treasure trove of data waiting to be explored. This project highlights the significance of data analysis in sports, demonstrating how it can provide valuable insights for teams, coaches, and fans alike. By delving into the 2022 Yankees' pitching performance, we can uncover trends, identify areas for improvement, and gain a deeper understanding of the team's dynamics.
+
+The "SQL_Queries" link above is the final product of this project, it's really just a demonstration of my current SQL ability. The other links available are the various data sources I used along the way so you are able to see the full process if you're interested. 
