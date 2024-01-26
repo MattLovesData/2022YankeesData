@@ -9,7 +9,7 @@ Excel: I've employed Microsoft Excel for data cleaning, transformation, and visu
 
 SQL: Structured Query Language (SQL) is the backbone of this project. I've employed SQL to explore, query, and extract meaningful insights from the Yankees' pitching data. SQL offers the flexibility and efficiency needed to analyze large datasets and generate valuable reports.
 
-ChatGPT: I've utilized ChatGPT to generate questions related to ourdata. These questions serve as prompts for SQL queries.
+ChatGPT: I've utilized ChatGPT to generate questions related to our data. These questions serve as prompts for the SQL queries.
 
 Project Goals:
 The primary objective of this portfolio project is to demonstrate my proficiency in leveraging data analysis tools and techniques to answer meaningful questions about the 2022 New York Yankees' pitching performance. By combining Excel, SQL, and ChatGPT, I aim to showcase my ability to:
