@@ -6,7 +6,7 @@ For this project, I have sourced comprehensive pitching statistics from two reli
 
 Tools Used:
 
-Excel: I've employed Microsoft Excel for data cleaning, transformation, and visualization.
+Excel: I've employed Microsoft Excel for data cleaning and transformation.
 
 SQL: Structured Query Language (SQL) is the backbone of this project. I've employed SQL to explore, query, and extract meaningful insights from the Yankees' pitching data. SQL offers the flexibility and efficiency needed to analyze large datasets and generate valuable reports.
 
