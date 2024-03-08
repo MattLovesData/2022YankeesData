@@ -22,7 +22,7 @@ SELECT
 	'Away' AS Home_or_Away,
 	AVG(1.00 * Pitch_number) AS AvgNumPitchesPerAtBat
 FROM dbo.LastPitchYankees
-WHERE away_team = 'NYY'
+WHERE away_team = 'NYY';
 
 		
 	Home_or_Away	AvgNumPitchesPerAtBat
@@ -34,7 +34,7 @@ WHERE away_team = 'NYY'
 SELECT 
 	AVG(Case when batter_handedness = 'R' Then 1.00 * Pitch_number end) AS RightyAtBats,
 	AVG(Case when batter_handedness = 'L' Then 1.00 * Pitch_number end) AS LeftyAtBats
-FROM dbo.LastPitchYankees
+FROM dbo.LastPitchYankees;
 
 	
 	RightyAtBats	LeftyAtBats
