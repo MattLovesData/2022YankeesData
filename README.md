@@ -1,6 +1,7 @@
 Welcome to my portfolio project, where I combine the power of Excel, SQL to explore and extract insights from the 2022 New York Yankees pitching statistics. This project showcases my skills in data manipulation, analysis, and creative problem-solving using diverse tools and datasets.
 
-Data Sources:
+Data Sources and methodology:
+
 For this project, I have sourced comprehensive pitching statistics from two reliable baseball data websites: baseballreference.com and baseballsavant.mlb.com. These datasets provide a rich and detailed overview of the 2022 Yankees' pitching performance, including player statistics, game logs, and more. These sources are well-regarded in the baseball analytics community for their accuracy and comprehensiveness. For this project I was interested in taking a look at the general performance of Yankees pitchers in 2022, Gerrit Cole's statistics, and the last pitch in a pitching sequence when action is taken- for example a walk, strikeout, hit, or homerun. I extracted data from baseballreference.com and baseballsavant.mlb.com based on these parameters, cleaned my data in excel, and exported both sheets as csv files in order to import them to Microsoft SQL Studio. I've provided the excel files as well as the finished csv files above.
 
 Tools Used:
